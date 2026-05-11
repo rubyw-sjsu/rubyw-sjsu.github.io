@@ -25,8 +25,7 @@ Links and Sources:
 
 [^2]: [‘Sonification of Astronomical Data ‘ by Wanda L. Diaz-Merced et. al.](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sonification-of-astronomical-data/E6319BD14429311DDD9F11429286C539)
 
-[^3]: [‘A Case Study in Astronomical 3D Printing: The Mysterious η Carinae
-‘ by Thomas I. Madura](https://iopscience.iop.org/article/10.1088/1538-3873/129/975/058011)
+[^3]: [‘A Case Study in Astronomical 3D Printing: The Mysterious η Carinae‘ by Thomas I. Madura](https://iopscience.iop.org/article/10.1088/1538-3873/129/975/058011)
 
 [^4]: [astro[Sound]bites: episode 33](https://astrosoundbites.com/2021/04/11/episode-33-scintillating-sounds-of-science/)
 
