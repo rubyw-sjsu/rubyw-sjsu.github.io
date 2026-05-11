@@ -15,8 +15,10 @@
 ![](Medium.png)
 #### AG Carinae[^5] is a variable star in the Carina constellation and is one of the most luminous stars in the Milky Way Galaxy. Observations of this star have been cataloged from 1941 to today, so the history of the brightness of this star can be sonified!
 ![](my_plot.png)
-#### To sonify the data, I normalized the x axis of time such that each beat represents one month. Thus, the note being played conveys the value of the star’s average brightness for that month. The lower octave sound is a fitted model to the data, while the higher octave sound corresponds to the actual data itself. Thus, one can hear how well their model fits their measured data.
+#### To sonify the data, I normalized the x axis of time such that each beat represents one month. Thus, the note being played conveys the value of the star’s average brightness for that month. The lower octave sound is a fitted model to the data, while the higher octave sound corresponds to the actual data itself.[^6] Thus, one can hear how well their model fits their measured data.
 [![Play Audio](https://img.shields.io/badge/▶-Play%20Audio-blue)](fit_df.mp3)
+
+#### Build your own sonification of a Hubble image [here](https://science.nasa.gov/mission/hubble/multimedia/online-activities/hearing-hubble/)![^7]
 
 
 Links and Sources:
@@ -30,3 +32,7 @@ Links and Sources:
 [^4]: [astro[Sound]bites: episode 33](https://astrosoundbites.com/2021/04/11/episode-33-scintillating-sounds-of-science/)
 
 [^5]: [image credit: NASA, ESA, STScI](https://science.nasa.gov/asset/hubble/ag-carinae/)
+
+[^6]: [TwoTone](https://twotone-midiout-beta.netlify.app/)
+
+[^7]: [Hearing Hubble](https://science.nasa.gov/mission/hubble/multimedia/online-activities/hearing-hubble/)
