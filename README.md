@@ -18,10 +18,16 @@
 #### To sonify the data, I normalized the x axis of time such that each beat represents one month. Thus, the note being played conveys the value of the star’s average brightness for that month. The lower octave sound is a fitted model to the data, while the higher octave sound corresponds to the actual data itself. Thus, one can hear how well their model fits their measured data.
 [![Play Audio](https://img.shields.io/badge/▶-Play%20Audio-blue)](fit_df.mp3)
 
+
 Links and Sources:
+
 [^1]: [https://chandra.si.edu/sound/](https://chandra.si.edu/sound/)
+
 [^2]: [‘Sonification of Astronomical Data ‘ by Wanda L. Diaz-Merced et. al.](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/sonification-of-astronomical-data/E6319BD14429311DDD9F11429286C539)
+
 [^3]: [‘A Case Study in Astronomical 3D Printing: The Mysterious η Carinae
 ‘ by Thomas I. Madura](https://iopscience.iop.org/article/10.1088/1538-3873/129/975/058011)
+
 [^4]: [astro[Sound]bites: episode 33](https://astrosoundbites.com/2021/04/11/episode-33-scintillating-sounds-of-science/)
+
 [^5]: [image credit: NASA, ESA, STScI](https://science.nasa.gov/asset/hubble/ag-carinae/)
