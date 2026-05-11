@@ -24,4 +24,4 @@ Links and Sources:
 [^3]: [‘A Case Study in Astronomical 3D Printing: The Mysterious η Carinae
 ‘ by Thomas I. Madura](https://iopscience.iop.org/article/10.1088/1538-3873/129/975/058011)
 [^4]: [astro[Sound]bites: episode 33](https://astrosoundbites.com/2021/04/11/episode-33-scintillating-sounds-of-science/)
-[^5][image credit: NASA, ESA, STScI](https://science.nasa.gov/asset/hubble/ag-carinae/)
+[^5]: [image credit: NASA, ESA, STScI](https://science.nasa.gov/asset/hubble/ag-carinae/)
