@@ -12,7 +12,7 @@ If you are interested in learning more about the sonification of astronomical da
 
 
 # Example: Ag Carinae
-![EC: NASA, ESA, STScI](Medium.png)
+![EC: NASA, ESA, STScI](Medium.png)[^5]
 AG Carinae is a variable star in the Carina constellation and is one of the most luminous stars in the Milky Way Galaxy. Observations of this star have been cataloged from 1941 to today, so the history of the brightness of this star can be sonified!
 ![](my_plot.png)
 To sonify the data, I normalized the x axis of time such that each beat represents one month. Thus, the note being played conveys the value of the star’s average brightness for that month. The lower octave sound is a fitted model to the data, while the higher octave sound corresponds to the actual data itself. Thus, one can hear how well their model fits their measured data.
