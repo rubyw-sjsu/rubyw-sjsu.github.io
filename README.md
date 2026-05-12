@@ -8,7 +8,7 @@
 
 #### For example, consider Eta Carinae. Eta Carinae is a binary star system surrounded by a large nebula called the Homunculus Nebula. Eta Carinae is famous for an eruption that occurred in 1843 which made it the second brightest star in the night sky. Over time, as the two stars in the system orbit each other, gas is ejected from the outer atmosphere of the stars and creates complex structures of material surrounding the system. The 3D printed models produced from 3D simulations of this system revealed structures previously unknown by astronomers.[^3]
 
-#### If you are interested in learning more about the sonification of astronomical data, the hosts of the podcast astro[Sound]bites talked explored this field in more detail in their episode 33: Beyond A[S]B — Scintillating Sounds of Science.[^4]
+#### If you are interested in learning more about the sonification of astronomical data, the hosts of the podcast astro[Sound]bites talked about this field in more detail in their episode 33: Beyond A[S]B — Scintillating Sounds of Science.[^4]
 
 
 # Example: Ag Carinae
